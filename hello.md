@@ -1,6 +1,5 @@
-
 ---
- template: Light
+template:Light
 ---
 
 # Welcome to the future

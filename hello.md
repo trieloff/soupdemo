@@ -1,6 +1,6 @@
 
 ---
- template: Dark
+ template: Storybook
 ---
 
 # Welcome to the future

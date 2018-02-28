@@ -1,4 +1,4 @@
 # Welcome to the future
 > Project Helix
 
-## Let's talk about
+## Let's talk about Project Helix

@@ -1,6 +1,6 @@
 
 ---
- template: Storybook
+ template: Light
 ---
 
 # Welcome to the future

@@ -1,6 +1,6 @@
 
 ---
- template: Medium
+ template: Light
 ---
 
 # Welcome to the future

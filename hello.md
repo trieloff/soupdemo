@@ -1,4 +1,4 @@
-# Welcome to
-> And its awesome subtitle
+# Welcome to the future
+> Project Helix
 
-## ALEX TESTING
+## Let's talk about Project Helix

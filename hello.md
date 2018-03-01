@@ -1,5 +1,5 @@
 ---
-template: Light
+template: Dark
 ---
 
 # Welcome to the future

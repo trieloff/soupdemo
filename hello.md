@@ -1,5 +1,5 @@
 ---
-template: Dark
+template: Medium
 ---
 
 # Helix: welcome to the future

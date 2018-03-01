@@ -1,5 +1,5 @@
 ---
-template: Light
+template: Medium
 ---
 
 # Welcome to the future

@@ -1,5 +1,5 @@
 ---
-template: default-sightly
+template: sightly
 ---
 
 # Sightly Test

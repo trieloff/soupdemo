@@ -1,8 +1,8 @@
 ---
-template: Dark
+template: Light
 ---
 
-# Helix: welcome to the future WHAHAHA
+# Helix: welcome to the future
 > Project Helix
 
 ## Let's talk about Project Helix

@@ -2,7 +2,7 @@
 template: Medium
 ---
 
-# Helix: welcome to the future
+# Welcome to the future
 > Project Helix
 
 ## Let's talk about Project Helix

@@ -2,7 +2,7 @@
 template:Light
 ---
 
-# Helix: Welcome to the future
+# Helix: welcome to the future
 > Project Helix
 
 ## Let's talk about Project Helix

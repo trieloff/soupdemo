@@ -1,5 +1,5 @@
 ---
-template: Dark
+template: Medium
 ---
 
 # Bill, Welcome to the future

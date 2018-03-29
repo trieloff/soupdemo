@@ -1,3 +1,6 @@
+---
+template: nav
+---
 * [Home](moscow.md)
 * [Red Square](redsquare.md)
 * [Metro](metro.md)
